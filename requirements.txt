@@ -1,0 +1,6 @@
+fastapi
+pinecone
+dotenv
+uvicorn
+sentence-transformers
+python-multipart
