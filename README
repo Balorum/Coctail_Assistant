@@ -1,0 +1,4 @@
+To install the application:
+1. Download the repository
+2. In the project folder, enter "pip install -r requirements.txt"
+3. To run the application, enter "uvicorn main:app --reload" in the project root folder
